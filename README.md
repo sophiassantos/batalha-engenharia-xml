@@ -1,4 +1,4 @@
-# 🤖 Experiência 3 — Batalha de Modelos & Engenharia de Prompt (XML)
+# 🤖 SM3 — Batalha de Modelos & Engenharia de Prompt (XML)
 
 **Disciplina:** Engenharia de Prompt e Aplicações em IA
 
