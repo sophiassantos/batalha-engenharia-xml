@@ -1,14 +1,5 @@
 # 🤖 SM3 — Batalha de Modelos & Engenharia de Prompt (XML)
 
-**Disciplina:** Engenharia de Prompt e Aplicações em IA
-
-**Integrantes:**
-- Sophia Armond Santos
-- Nicolas Araujo Petrimperni
-- Yasmin Santos de Oliveira
-
----
-
 ## 🎯 Objetivos da Atividade
 
 - **Análise Crítica:** Avaliar a precisão técnica e a conformidade de 
